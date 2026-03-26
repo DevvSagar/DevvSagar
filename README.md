@@ -1,36 +1,37 @@
-# 👋 Hi, I'm Sagar Singh
+# 👋 Hi, I'm Sagar Pratap Singh
 
-🚀 Full Stack Developer focused on building AI-powered web applications.
+🚀 Full Stack Developer building scalable and secure AI-powered web applications using modern technologies.
 
 ---
 
 ## 💡 About Me
 
-* 🎓 BCA Student at Career Point University, Kota
-* 💻 Passionate about Web Development & AI Integration
-* 🔐 Interested in building secure and scalable applications
-* 🚀 Currently working on AI-based real-world projects
+* 🎓 BCA student at Career Point University, Kota
+* 💻 Focused on full-stack development and AI integration
+* 🔐 Strong interest in building secure, production-ready systems
+* 🚀 Actively developing real-world applications with practical use cases
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Frontend: React, Tailwind CSS
-* Backend: Node.js, Express.js
-* Languages: JavaScript, Python
-* Tools: Git, GitHub
+* **Frontend:** React, Tailwind CSS
+* **Backend:** Node.js, Express.js
+* **Languages:** JavaScript, Python
+* **Tools:** Git, GitHub
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Scribo – AI Meeting Notes App
+### 🔹 Scribo – AI Meeting Intelligence Platform
 
-AI-powered app that converts meetings into transcripts and summaries.
+A full-stack application that transforms meeting recordings into structured transcripts and intelligent summaries.
 
 * Built with React + Node.js
-* Integrated AssemblyAI API
-* Focused on security and performance
+* Integrated AssemblyAI for AI-powered transcription
+* Implemented secure backend practices (validation, rate limiting, sanitization)
+* Designed for real-world usability and performance
 
 👉 https://github.com/DevvSagar/scribo
 
@@ -38,13 +39,13 @@ AI-powered app that converts meetings into transcripts and summaries.
 
 ### 🔹 Code-Sync
 
-Real-time code syncing platform with multi-language support.
+A real-time code collaboration platform supporting multiple languages and seamless syncing between users.
 
 ---
 
 ### 🔹 Smart-Planner
 
-Task planning application built with TypeScript.
+A task management application built with TypeScript, focused on improving productivity and organization.
 
 ---
 
@@ -54,4 +55,4 @@ Task planning application built with TypeScript.
 
 ---
 
-⭐ Always learning and building!
+⭐ Continuously building, learning, and improving as a developer.
