@@ -60,7 +60,7 @@ A personal finance tracking API extending the same secure auth pattern, with add
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/DevvSagar
-* LinkedIn: [add your LinkedIn URL here]
+* LinkedIn: www.linkedin.com/in/devvsag
 
 ---
 
