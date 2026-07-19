@@ -1,27 +1,42 @@
-# Sagar Pratap Singh
+<div align="center">
 
-Aspiring Software Engineer — backend-focused, building secure, production-style APIs.
+# SAGAR PRATAP SINGH
 
-BCA student at Career Point University, Kota. Learning by building: every project below is hand-written and independently tested, not copied from a tutorial.
+### Aspiring Software Engineer — Backend
 
-## Stack
+*Building secure, production-style APIs. Hand-written. Independently tested.*
 
-Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · JWT · Docker
-JavaScript · React · Node.js · Express
+<br>
 
-## Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Todo API** — FastAPI backend with JWT auth and strict per-user data isolation. Every route enforces ownership at the query level; verified by attempting cross-user access and confirming it's blocked. PostgreSQL + Alembic-managed migrations.
-[github.com/DevvSagar/Todo-FastAPI](https://github.com/DevvSagar/Todo-FastAPI)
+</div>
 
-**Expense Tracker API** — Same secure auth pattern, built independently, extended with aggregation queries (category totals, spend summaries). Includes a documented recovery from a real migration incident — a stale import silently broke schema tracking, dropping two tables; diagnosed and fixed from scratch.
-[github.com/DevvSagar/Expense-Tracker-API](https://github.com/DevvSagar/Expense-Tracker-API)
+<br>
 
-**Scribo** — AI meeting intelligence platform. Transcribes and summarizes meeting recordings using AssemblyAI, with a React + Node.js stack and secure backend practices (validation, rate limiting, sanitization).
-[github.com/DevvSagar/scribo](https://github.com/DevvSagar/scribo)
+## 🔹 Todo API
+**JWT auth + strict per-user data isolation.** Every route ownership-checked at the query level — verified by attempting cross-user access and confirming it's blocked.
+→ [github.com/DevvSagar/Todo-FastAPI](https://github.com/DevvSagar/Todo-FastAPI)
 
-## Contact
+## 🔹 Expense Tracker API
+**Same auth pattern, built independently, plus aggregation queries.** Includes a documented recovery from a real migration incident that dropped two production tables.
+→ [github.com/DevvSagar/Expense-Tracker-API](https://github.com/DevvSagar/Expense-Tracker-API)
 
-GitHub: [github.com/DevvSagar](https://github.com/DevvSagar)
-LinkedIn: www.linkedin.com/in/devvsag
-Mail: Devvsag@gmail.com
+## 🔹 Scribo
+**AI meeting intelligence platform.** Transcribes and summarizes recordings via AssemblyAI — React + Node.js, secure backend practices.
+→ [github.com/DevvSagar/scribo](https://github.com/DevvSagar/scribo)
+
+<br>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevvSagar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvsag)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Devvsag@gmail.com)
+
+</div>
