@@ -1,67 +1,27 @@
-# 👋 Hi, I'm Sagar Pratap Singh
+# Sagar Pratap Singh
 
-🚀 Aspiring Software Engineer building secure, production-style backend systems and full-stack applications.
+Aspiring Software Engineer — backend-focused, building secure, production-style APIs.
 
----
+BCA student at Career Point University, Kota. Learning by building: every project below is hand-written and independently tested, not copied from a tutorial.
 
-## 💡 About Me
+## Stack
 
-* 🎓 BCA student at Career Point University, Kota
-* 🔐 Focused on backend development with an emphasis on security — authentication, authorization, and data isolation done right, not just "it works"
-* 🐍 Currently deep in Python/FastAPI, building REST APIs with JWT auth, PostgreSQL, and Alembic migrations
-* 🚀 Learning by building — every project below is hand-built and tested, not copy-pasted from tutorials
+Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · JWT · Docker
+JavaScript · React · Node.js · Express
 
----
+## Projects
 
-## 🛠️ Tech Stack
+**Todo API** — FastAPI backend with JWT auth and strict per-user data isolation. Every route enforces ownership at the query level; verified by attempting cross-user access and confirming it's blocked. PostgreSQL + Alembic-managed migrations.
+[github.com/DevvSagar/Todo-FastAPI](https://github.com/DevvSagar/Todo-FastAPI)
 
-* **Backend:** Python, FastAPI, Node.js, Express.js
-* **Databases:** PostgreSQL, SQLAlchemy, Alembic
-* **Frontend:** React, Tailwind CSS
-* **Languages:** Python, JavaScript
-* **Tools & Practices:** Git, GitHub, Docker, JWT Auth, REST API Design
+**Expense Tracker API** — Same secure auth pattern, built independently, extended with aggregation queries (category totals, spend summaries). Includes a documented recovery from a real migration incident — a stale import silently broke schema tracking, dropping two tables; diagnosed and fixed from scratch.
+[github.com/DevvSagar/Expense-Tracker-API](https://github.com/DevvSagar/Expense-Tracker-API)
 
----
+**Scribo** — AI meeting intelligence platform. Transcribes and summarizes meeting recordings using AssemblyAI, with a React + Node.js stack and secure backend practices (validation, rate limiting, sanitization).
+[github.com/DevvSagar/scribo](https://github.com/DevvSagar/scribo)
 
-## 🚀 Featured Projects
+## Contact
 
-### 🔹 Scribo – AI Meeting Intelligence Platform
-A full-stack application that transforms meeting recordings into structured transcripts and intelligent summaries.
-* Built with React + Node.js
-* Integrated AssemblyAI for AI-powered transcription
-* Implemented secure backend practices (validation, rate limiting, sanitization)
-* Designed for real-world usability and performance
-
-👉 https://github.com/DevvSagar/scribo
-
----
-
-### 🔹 Todo API – Secure REST API with Per-User Data Isolation
-A FastAPI backend with JWT authentication, where every user only ever sees and modifies their own data.
-* JWT-based auth: password hashing, token creation/verification, protected routes
-* Per-user ownership enforced at the query level — tested by attempting cross-user access and confirming it's blocked
-* PostgreSQL + SQLAlchemy, with Alembic-managed schema migrations
-* Structured to industry convention (SQLAlchemy models vs Pydantic schemas cleanly separated)
-
-👉 https://github.com/DevvSagar/Todo-FastAPI
-
----
-
-### 🔹 Expense Tracker API – FastAPI Backend with Analytics
-A personal finance tracking API extending the same secure auth pattern, with added query logic for real usage.
-* Full JWT auth + per-user ownership, built independently after the Todo API
-* Category filtering, total spend, and category-wise summary endpoints (aggregation queries)
-* Recovered from and documented a real Alembic migration incident — diagnosed a stale import path that caused a bad schema drop, fixed it, and rebuilt the migration history cleanly
-
-👉 https://github.com/DevvSagar/Expense-Tracker-API
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/DevvSagar
-* LinkedIn: www.linkedin.com/in/devvsag
-
----
-
-⭐ Continuously building, learning, and improving — one real bug at a time.
+GitHub: [github.com/DevvSagar](https://github.com/DevvSagar)
+LinkedIn: www.linkedin.com/in/devvsag
+Mail: Devvsag@gmail.com
