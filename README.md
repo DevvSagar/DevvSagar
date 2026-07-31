@@ -7,4 +7,4 @@ Aspiring Backend Software Engineer, sharpening DSA alongside Python & FastAPI.
 
 ☕ After work: exploring Linux systems, way too much caffeine, messing with tech gadgets, following where AI is headed, and traveling whenever I can.
 
-[GitHub](https://github.com/DevvSagar) · [LinkedIn](#)
+[LinkedIn](www.linkedin.com/in/devvsag)
