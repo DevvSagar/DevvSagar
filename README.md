@@ -1,7 +1,7 @@
 # Hi, I'm Sagar 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1500&color=58A6FF&repeat=true&width=900&multiline=true&lines=Aspiring+Backend+Software+Engineer%2C;sharpening+DSA+alongside+Python+%26+FastAPI." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&color=58A6FF&repeat=true&width=900&multiline=true&lines=Aspiring+Backend+Software+Engineer%2C;sharpening+DSA+alongside+Python+%26+FastAPI." />
 </p>
 
 ### 🌐 Website
