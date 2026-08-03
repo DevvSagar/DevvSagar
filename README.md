@@ -1,25 +1,15 @@
-<div align="center">
+# Hi, I'm Sagar 👋
 
-```console
-sagar@linux:~$ ./start.sh
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2000&color=58A6FF&vCenter=true&repeat=true&width=700&lines=Aspiring+Backend+Software+Engineer%2C+sharpening+DSA+alongside+Python+%26+FastAPI." alt="Typing SVG" />
+</p>
 
-> booting...
-> loading python...
-> starting fastapi...
-> connecting postgresql...
-> launching docker...
-> compiling ideas...
-> solving leetcode...
-> coffee detected ☕
-> system ready.
+### 🌐 Website
 
-                    .--.
-                   |o_o |
-                   |:_/ |
-                  //   \ \
-                 (|     | )
-                /'\_   _/`\
-                \___)=(___/
-```
+**https://devvx.in**
 
-</div>
+### Stack
+
+`Python` `FastAPI` `PostgreSQL` `Docker` `DSA` `JavaScript` `SQL`
+
+☕ After work: exploring Linux systems, way too much caffeine, messing with tech gadgets, following where AI is headed, and traveling whenever I can.
