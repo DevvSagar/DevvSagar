@@ -17,11 +17,11 @@
     <img src="https://img.shields.io/badge/Portfolio-devvx.in-0f172a?style=for-the-badge&logo=googlechrome&logoColor=00F0FF&labelColor=020617" alt="Website" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="www.linkedin.com/in/devvsag">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:contact@devvx.in">
+  <a href="mailto:devvsag@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" alt="Email" />
   </a>
 </p>
