@@ -66,10 +66,11 @@
 
 ### 🎯 What I Bring to the Table
 
-- **API Architecture:** Designing clean, scalable RESTful & async APIs with automatic OpenAPI/Swagger documentation.
-- **Database Performance:** Writing optimized queries, managing migrations via Alembic, indexing strategies, and connection pooling.
-- **Production Readiness:** Containerizing microservices with Docker, configuring secure RBAC authorization, and deploying to AWS/Render cloud environments.
-- **System Reliability:** Implementing structured logging, circuit breakers, rate limiting, and zero-trust authentication pipelines.
+- **🏗️ Scalable System Design & Architecture:** Designing resilient, decoupled backend architectures that scale horizontally. Thinking in terms of load balancing, multi-layer caching with Redis, data partitioning, and fault tolerance.
+- **⚡ High-Throughput Async APIs:** Writing non-blocking, concurrent REST services with FastAPI, Uvicorn, and Pydantic v2 validation that handle heavy traffic with low latency.
+- **🗄️ Database Engineering & Query Tuning:** Architecting normalized schemas in PostgreSQL, writing high-performance SQL, managing database indexing strategies, connection pooling, and zero-downtime Alembic migrations.
+- **🔐 Zero-Trust Auth & API Security:** Implementing stateless JWT authentication flows, salted Bcrypt password hashing, granular Role-Based Access Control (RBAC), rate limiting, and CORS policies.
+- **☁️ Cloud & Production Containerization:** Packaging microservices into lightweight multi-stage Docker containers, configuring cloud infrastructure (AWS / Render), and setting up reproducible CI/CD delivery pipelines.
 
 ---
 
