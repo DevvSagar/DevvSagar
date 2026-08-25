@@ -2,7 +2,7 @@
 
 <!-- Hero Banner / Glow Title -->
 <h1 align="center">
-  <span style="font-size: 32px; font-weight: 800; letter-spacing: -0.5px;">Sagar</span>
+  <span style="font-size: 32px; font-weight: 800; letter-spacing: -0.5px;">Sagar - Devvx</span>
 </h1>
 
 <a href="https://devvx.in">
