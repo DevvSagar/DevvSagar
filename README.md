@@ -1,95 +1,75 @@
 <div align="center">
 
-# Hi, I'm Sagar 👋
+<!-- Hero Banner / Glow Title -->
+<h1 align="center">
+  <span style="font-size: 32px; font-weight: 800; letter-spacing: -0.5px;">Sagar</span>
+</h1>
 
 <a href="https://devvx.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=Backend+Software+Engineer;Building+Reliable+%26+Scalable+Distributed+Systems;Python+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=40&lines=Backend+Engineer+%E2%80%A2+System+Architecture;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+AWS;Designing+High-Throughput+%26+Async+APIs" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<!-- Modern Pill Buttons (No standard ugly blue underlines) -->
 <p align="center">
-  <a href="https://devvx.in"><b>🌐 Website (devvx.in)</b></a> &nbsp;•&nbsp; 
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><b>💼 LinkedIn</b></a> &nbsp;•&nbsp; 
-  <a href="mailto:contact@devvx.in"><b>📫 Email</b></a>
+  <a href="https://devvx.in">
+    <img src="https://img.shields.io/badge/Portfolio-devvx.in-0f172a?style=for-the-badge&logo=googlechrome&logoColor=00F0FF&labelColor=020617" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:contact@devvx.in">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" alt="Email" />
+  </a>
 </p>
 
----
-
 </div>
 
-### 🚀 About Me
-
-Backend Engineer specializing in designing robust, scalable REST APIs, async microservices, and reliable database architectures. Strong problem-solving foundation in **Data Structures & Algorithms**.
-
-- 🔭 **Focus:** Scalable backend architectures, query optimization, and async event-driven systems.
-- ⚡ **Engineering Principles:** Strict type safety, clean layered design, zero-trust RBAC authentication, and reproducible containerized deployments.
-- 💡 **Interests:** Linux system internals, high caffeine intake, and tracking distributed systems & AI breakthroughs.
-
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### ⚡ Quick Overview
 
-<table>
-  <tr>
-    <td width="24%" valign="top"><b>💻 Languages & Core</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/DSA-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="DSA" />
-    </td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><b>⚡ Backend & APIs</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
-      <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" alt="Uvicorn" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-      <img src="https://img.shields.io/badge/Alembic-4B5563?style=flat-square&logo=python&logoColor=white" alt="Alembic" />
-      <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja2" />
-    </td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><b>🗄️ Databases & Storage</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-    </td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><b>🔐 Security & Auth</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-      <img src="https://img.shields.io/badge/Bcrypt-24292F?style=flat-square&logo=shield&logoColor=white" alt="Bcrypt" />
-      <img src="https://img.shields.io/badge/RBAC-6366F1?style=flat-square&logo=auth0&logoColor=white" alt="RBAC" />
-      <img src="https://img.shields.io/badge/Rate_Limiting_%26_CORS-10B981?style=flat-square&logo=security&logoColor=white" alt="CORS" />
-    </td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><b>☁️ Cloud & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 Core Competencies
-
-```
-  [API Engineering]       FastAPI • RESTful Standards • Async I/O • Swagger / OpenAPI
-  [Data & Persistence]    PostgreSQL • SQLAlchemy 2.0 • Alembic Migrations • MongoDB
-  [Security & Auth]       JWT • Password Hashing (Bcrypt) • Role-Based Access Control
-  [DevOps & Cloud]        Docker Containerization • AWS Deployment • Render • Vercel
+```python
+class BackendEngineer:
+    def __init__(self):
+        self.name = "Sagar"
+        self.role = "Backend Software Engineer"
+        self.focus = ["Async Distributed Systems", "RESTful API Design", "Query Optimization"]
+        self.current_stack = ["Python", "FastAPI", "PostgreSQL", "Docker", "AWS"]
+    
+    def philosophy(self) -> str:
+        return "Clean modular code • Strict Pydantic typing • Resilient microservices"
 ```
 
 ---
+
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-  <sub>Built with focus on clean architecture, minimal eye strain, and high signal-to-noise ratio.</sub>
+
+| Area | Technologies & Tools |
+| :--- | :--- |
+| **💻 Core & Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![LeetCode](https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) |
+| **⚡ Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-6B7280?style=for-the-badge&logo=python&logoColor=white) |
+| **🗄️ Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| **🔐 Auth & Security** | ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Bcrypt](https://img.shields.io/badge/Bcrypt_Hashing-1E293B?style=for-the-badge&logo=shield&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC_Control-6366F1?style=for-the-badge&logo=auth0&logoColor=white) |
+| **☁️ Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+
 </div>
+
+---
+
+### 🎯 What I Bring to the Table
+
+- **API Architecture:** Designing clean, scalable RESTful & async APIs with automatic OpenAPI/Swagger documentation.
+- **Database Performance:** Writing optimized queries, managing migrations via Alembic, indexing strategies, and connection pooling.
+- **Production Readiness:** Containerizing microservices with Docker, configuring secure RBAC authorization, and deploying to AWS/Render cloud environments.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:6366F1&height=100&section=footer" width="100%"/>
+</p>
