@@ -33,36 +33,18 @@
 
 <!-- Profile Counter & Live Status -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_BACKEND_ROLES-00F0FF?style=flat-square&logo=statuspage&logoColor=020617&labelColor=020617" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_BACKEND_ROLES-10B981?style=flat-square&logo=statuspage&logoColor=white" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=devvsag&label=PROFILE+VIEWS&color=6366F1&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-798-6366F1?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-### ⚡ Quick Overview
+### ⚡ About Me
 
-```python
-class BackendEngineer:
-    def __init__(self):
-        self.name = "Sagar"
-        self.handle = "Devvx"
-        self.role = "Backend Software Engineer"
-        self.focus = ["Async Distributed Systems", "RESTful API Design", "Query Optimization"]
-        self.current_stack = ["Python", "FastAPI", "PostgreSQL", "Docker", "AWS"]
-    
-    def philosophy(self) -> str:
-        return "Clean modular code • Strict Pydantic typing • Resilient microservices"
-
-    def current_status(self) -> dict:
-        return {
-            "dsa_practice": "Grinding Patterns & LeetCode",
-            "building": "High-Throughput Async APIs",
-            "target": ["High-Growth Startups", "FAANG / Tier-1 Product Companies"]
-        }
-```
+> Backend Software Engineer specializing in high-throughput asynchronous APIs, scalable database architectures, and distributed microservices with **Python & FastAPI**. Focused on writing clean, strictly-typed code that scales reliably in production.
 
 ---
 
@@ -88,17 +70,6 @@ class BackendEngineer:
 - **Database Performance:** Writing optimized queries, managing migrations via Alembic, indexing strategies, and connection pooling.
 - **Production Readiness:** Containerizing microservices with Docker, configuring secure RBAC authorization, and deploying to AWS/Render cloud environments.
 - **System Reliability:** Implementing structured logging, circuit breakers, rate limiting, and zero-trust authentication pipelines.
-
----
-
-### 🚀 Engineering Philosophy & Execution
-
-```
-┌── ⚡ 01. ASYNC-FIRST BACKENDS  ──» Non-blocking I/O with FastAPI, Uvicorn & strict Pydantic models
-├── 🗄️ 02. RELATIONAL PRECISION  ──» PostgreSQL indexing, Alembic zero-downtime migrations & SQLAlchemy 2.0
-├── 🔐 03. BULLETPROOF SECURITY  ──» Stateless JWT tokens, Bcrypt salt hashing & granular RBAC policies
-└── ☁️ 04. CLOUD CONTAINERS      ──» Docker multi-stage builds deployed reliably to AWS & Render
-```
 
 ---
 
