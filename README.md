@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-devvx.in-0f172a?style=for-the-badge&logo=googlechrome&logoColor=00F0FF&labelColor=020617" alt="Website" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/devvsag">
+  <a href="https://www.linkedin.com/in/devvsag/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn" />
   </a>
   &nbsp;
