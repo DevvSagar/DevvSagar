@@ -64,7 +64,7 @@
 
 ---
 
-### 🎯 What I Bring to the Table
+### 🎯 What I Bring to the Table that's real deal
 
 - **🏗️ Scalable System Design & Architecture:** Designing resilient, decoupled backend architectures that scale horizontally. Thinking in terms of load balancing, multi-layer caching with Redis, data partitioning, and fault tolerance.
 - **⚡ High-Throughput Async APIs:** Writing non-blocking, concurrent REST services with FastAPI, Uvicorn, and Pydantic v2 validation that handle heavy traffic with low latency.
