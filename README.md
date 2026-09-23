@@ -7,7 +7,7 @@
 
 <!-- Hero Title -->
 <h1 align="center">
-  <span style="font-size: 34px; font-weight: 900; letter-spacing: -0.5px;">Sagar &bull; Devvx</span>
+  <span style="font-size: 34px; font-weight: 900; letter-spacing: -0.5px;">Sagar Pratap Singh &bull; Devvx</span>
 </h1>
 
 <a href="https://devvx.in">
