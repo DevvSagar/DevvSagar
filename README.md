@@ -8,7 +8,7 @@
 
 <br/>
 
-<h3 align="center"><b><ins>Tech Stack</ins></b></h3>
+<h3 align="center"><font size="4"><b><ins>Tech Stack</ins></b></font></h3>
 
 | Area | Technologies |
 | :--- | :--- |
@@ -22,7 +22,7 @@
 <hr/>
 <br/>
 
-<h3 align="center"><img src="assets/yellow-dot.svg" width="14" height="14" alt="Project" /> <b><ins>Current Project</ins></b></h3>
+<h3 align="center"><img src="assets/yellow-dot.svg" width="14" height="14" alt="Building" /> <font size="4"><b><ins>Currently Building</ins></b></font></h3>
 
 <p align="center">
   <a href="https://github.com/DevvSagar/async-singleflight"><b>async-singleflight ↗</b></a><br/>
@@ -38,11 +38,12 @@
 <hr/>
 <br/>
 
-<h3 align="center"><img src="assets/green-dot.svg" width="14" height="14" alt="Focus" /> <b><ins>Current Focus</ins></b></h3>
+<h3 align="center"><img src="assets/green-dot.svg" width="14" height="14" alt="Focus" /> <font size="4"><b><ins>Engineering Focus</ins></b></font></h3>
 
 <p align="center">
   <b>Researching:</b> Distributed consensus protocols and storage engine internals.<br/>
   <b>Building:</b> Resilient, high-throughput concurrent backend systems in <b>Go</b> &amp; <b>Python</b>.<br/>
   <b>Reading:</b> Tech blogs &amp; engineering post-mortems on systems at scale.
 </p>
+
 </div>
