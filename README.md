@@ -14,7 +14,7 @@
 
 <br/>
 
-### <u><b>Tech Stack</b></u>
+<h2 align="center"><b><ins>Tech Stack</ins></b></h2>
 
 | Area | Technologies |
 | :--- | :--- |
@@ -25,12 +25,10 @@
 | **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 
 <br/>
-
----
-
+<hr/>
 <br/>
 
-### <img src="assets/glowing-dot.svg" width="12" height="12" alt="Live" /> <u><b>Current Project</b></u>
+<h2 align="center"><img src="assets/glowing-dot.svg" width="14" height="14" alt="Live" /> <b><ins>Current Project</ins></b></h2>
 
 <p align="center">
   <a href="https://github.com/DevvSagar/async-singleflight"><b>async-singleflight</b></a><br/>
