@@ -25,13 +25,13 @@
 <h3 align="center"><img src="assets/yellow-dot.svg" width="14" height="14" alt="Project" /> <b><ins>Current Project</ins></b></h3>
 
 <p align="center">
-  <a href="https://github.com/DevvSagar/async-singleflight"><b>async-singleflight</b></a><br/>
-  <em>Production-grade request coalescing & anti-cache-stampede engine for Python asyncio and FastAPI</em>
+  <a href="https://github.com/DevvSagar/async-singleflight"><b>async-singleflight ↗</b></a><br/>
+  <em>Production request coalescing &amp; anti-stampede engine for Python Asyncio &amp; FastAPI</em>
 </p>
 
 <p align="center">
-  <b>Problem:</b> Prevents cache stampedes and database connection pool exhaustion under high concurrency by coalescing duplicate in-flight requests into a single execution.<br/>
-  <b>GitHub:</b> <a href="https://github.com/DevvSagar/async-singleflight">github.com/DevvSagar/async-singleflight</a>
+  <b>The Problem:</b> High-concurrency cache expiration floods databases with redundant queries, exhausting connection pools.<br/>
+  <b>The Solution:</b> Coalesces duplicate in-flight requests into a single execution, eliminating up to <b>99.9%</b> of redundant load.
 </p>
 
 <br/>
@@ -41,7 +41,7 @@
 <h3 align="center"><img src="assets/green-dot.svg" width="14" height="14" alt="Focus" /> <b><ins>Current Focus</ins></b></h3>
 
 <p align="center">
-  <b>Exploring:</b> Distributed consensus and database storage engine internals.<br/>
-  <b>Writing:</b> Concurrent backends & low-latency services in <b>Go</b> & <b>Python</b>.
+  <b>Researching:</b> Distributed consensus protocols and storage engine internals.<br/>
+  <b>Building:</b> Resilient, high-throughput concurrent backend systems in <b>Go</b> &amp; <b>Python</b>.
 </p>
 </div>
