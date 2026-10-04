@@ -22,7 +22,7 @@
 <br/>
 
 ![DSA](https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) &nbsp;
-![OOP](https://img.shields.io/badge/OOP-6366F1?style=for-the-badge&logo=thealgorithms&logoColor=white) &nbsp;
+![OOPS](https://img.shields.io/badge/OOPS-6366F1?style=for-the-badge&logo=thealgorithms&logoColor=white) &nbsp;
 ![System Design](https://img.shields.io/badge/System_Design-0EA5E9?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 ---
