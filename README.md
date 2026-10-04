@@ -6,7 +6,6 @@
   <em>Driven by first principles: prioritizing simplicity, predictable performance, and backend systems that scale reliably under load.</em>
 </p>
 
-
 <br/>
 
 <h3 align="center"><b><ins>Tech Stack</ins></b></h3>
@@ -33,6 +32,25 @@
 <p align="center">
   <b>Problem:</b> Prevents cache stampedes and database connection pool exhaustion under high concurrency by coalescing duplicate in-flight requests into a single execution.<br/>
   <b>GitHub:</b> <a href="https://github.com/DevvSagar/async-singleflight">github.com/DevvSagar/async-singleflight</a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<h3 align="center"><b><ins>Current Focus</ins></b></h3>
+
+<p align="center">
+  <b>Exploring:</b> Distributed consensus and database storage engine internals.<br/>
+  <b>Writing:</b> Concurrent backends & low-latency services in <b>Go</b> & <b>Python</b>.
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <sub>Let's connect: <a href="https://devvx.in">devvx.in</a> &bull; <a href="https://www.linkedin.com/in/devvsag/">LinkedIn</a> &bull; <a href="mailto:devvsag@gmail.com">devvsag@gmail.com</a></sub>
 </p>
 
 </div>
