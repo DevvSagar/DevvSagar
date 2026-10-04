@@ -22,7 +22,7 @@
 <hr/>
 <br/>
 
-<h3 align="center"><img src="assets/yellow-dot.svg" width="14" height="14" alt="Building" /> <font size="4"><b><ins>Currently Building</ins></b></font> &nbsp;<sub><em>(updated to the latest)</em></sub></h3>
+<h3 align="center"><img src="assets/yellow-dot.svg" width="14" height="14" alt="Building" /> <font size="4"><b><ins>Currently Building</ins></b></font></h3>
 
 <p align="center">
   <a href="https://github.com/DevvSagar/async-singleflight"><b>async-singleflight ↗</b></a><br/>
