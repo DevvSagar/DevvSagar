@@ -7,36 +7,12 @@
 
 <!-- Hero Title -->
 <h1 align="center">
-  <span style="font-size: 34px; font-weight: 900; letter-spacing: -0.5px;">Sagar Pratap Singh &bull; Devvx</span>
+  <span style="font-size: 34px; font-weight: 900; letter-spacing: -0.5px;">Sagar Pratap Singh || Devvx</span>
 </h1>
 
 <a href="https://devvx.in">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=40&lines=Backend+Engineer+%E2%80%A2+System+Architecture;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker+%7C+AWS;Designing+High-Throughput+%26+Async+APIs;Zero-Trust+Security+%7C+Optimized+Databases" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- Modern Pill Buttons -->
-<p align="center">
-  <a href="https://devvx.in">
-    <img src="https://img.shields.io/badge/Portfolio-devvx.in-0f172a?style=for-the-badge&logo=googlechrome&logoColor=00F0FF&labelColor=020617" alt="Website" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/devvsag/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:devvsag@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" alt="Email" />
-  </a>
-</p>
-
-<!-- Profile Counter & Live Status -->
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_BACKEND_ROLES-10B981?style=flat-square&logo=statuspage&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-798-6366F1?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
-</p>
 
 </div>
 
