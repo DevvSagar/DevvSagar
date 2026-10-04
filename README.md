@@ -41,10 +41,13 @@
 <h3 align="center"><img src="assets/green-dot.svg" width="14" height="14" alt="Focus" /> <font size="4"><b><ins>Engineering Focus</ins></b></font></h3>
 
 <p align="center">
-  <b>Researching:</b> Distributed consensus protocols and storage engine internals.<br/>
-  <b>Building:</b> Resilient, high-throughput concurrent backend systems in <b>Go</b> &amp; <b>Python</b>.<br/>
-  <b>Practicing:</b> LeetCode — sharpening data structures &amp; algorithmic problem-solving.<br/>
-  <b>Reading:</b> Tech blogs &amp; engineering post-mortems on systems at scale.
+  <b>Researching:</b> Distributed consensus &amp; storage engine internals<br/>
+  <b>Building:</b> High-throughput backend systems in <b>Go</b> &amp; <b>Python</b>
+</p>
+
+<p align="center">
+  <b>Solving:</b> LeetCode — core data structures &amp; algorithms<br/>
+  <b>Reading:</b> Engineering post-mortems &amp; systems architecture
 </p>
 
 <br/>
