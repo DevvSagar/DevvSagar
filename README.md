@@ -3,6 +3,13 @@
 <h1 align="center">Sagar Pratap Singh &bull; Devvx</h1>
 
 <p align="center">
+  <a href="https://devvx.in/">devvx.in</a> &nbsp;&bull;&nbsp;
+  <a href="https://www.linkedin.com/in/devvsag/">in/devvsag</a> &nbsp;&bull;&nbsp;
+  <a href="https://x.com/devvxsagar">@devvxsagar</a> &nbsp;&bull;&nbsp;
+  <a href="mailto:devvsag@gmail.com">devvsag@gmail.com</a>
+</p>
+
+<p align="center">
   <em>Driven by first principles: prioritizing simplicity, predictable performance, and backend systems that scale reliably under load.</em>
 </p>
 
