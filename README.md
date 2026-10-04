@@ -44,13 +44,4 @@
   <b>Exploring:</b> Distributed consensus and database storage engine internals.<br/>
   <b>Writing:</b> Concurrent backends & low-latency services in <b>Go</b> & <b>Python</b>.
 </p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <sub>Let's connect: <a href="https://devvx.in">devvx.in</a> &bull; <a href="https://www.linkedin.com/in/devvsag/">LinkedIn</a> &bull; <a href="mailto:devvsag@gmail.com">devvsag@gmail.com</a></sub>
-</p>
-
 </div>
