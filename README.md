@@ -6,11 +6,6 @@
   <em>Driven by first principles: prioritizing simplicity, predictable performance, and backend systems that scale reliably under load.</em>
 </p>
 
-<p align="center">
-  <a href="https://devvx.in">Portfolio</a> &nbsp;&bull;&nbsp;
-  <a href="https://www.linkedin.com/in/devvsag/">LinkedIn</a> &nbsp;&bull;&nbsp;
-  <a href="mailto:devvsag@gmail.com">Email</a>
-</p>
 
 <br/>
 
