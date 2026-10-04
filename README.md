@@ -46,4 +46,15 @@
   <b>Reading:</b> Tech blogs &amp; engineering post-mortems on systems at scale.
 </p>
 
+<br/>
+<hr/>
+<br/>
+
+<h3 align="center"><img src="assets/purple-dot.svg" width="14" height="14" alt="Upcoming" /> <font size="4"><b><ins>Upcoming</ins></b></font></h3>
+
+<p align="center">
+  <b>GSoC:</b> Preparing &amp; contributing to open-source distributed systems and tooling.<br/>
+  <b>Hackathons:</b> Competing in upcoming hackathons—building high-velocity backend prototypes.
+</p>
+
 </div>
