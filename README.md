@@ -43,6 +43,7 @@
 <p align="center">
   <b>Researching:</b> Distributed consensus protocols and storage engine internals.<br/>
   <b>Building:</b> Resilient, high-throughput concurrent backend systems in <b>Go</b> &amp; <b>Python</b>.<br/>
+  <b>Practicing:</b> LeetCode — sharpening data structures &amp; algorithmic problem-solving.<br/>
   <b>Reading:</b> Tech blogs &amp; engineering post-mortems on systems at scale.
 </p>
 
