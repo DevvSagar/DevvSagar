@@ -1,6 +1,20 @@
+<div align="center">
+
 # Sagar Pratap Singh || Devvx
 
-## 🛠️ Tech Stack
+<p align="center">
+  <em>Driven by first principles: prioritizing simplicity, predictable performance, and backend systems that scale reliably under load.</em>
+</p>
+
+<p align="center">
+  <a href="https://devvx.in">Portfolio</a> &nbsp;&bull;&nbsp;
+  <a href="https://www.linkedin.com/in/devvsag/">LinkedIn</a> &nbsp;&bull;&nbsp;
+  <a href="mailto:devvsag@gmail.com">Email</a>
+</p>
+
+---
+
+### Tech Stack
 
 | Area | Technologies |
 | :--- | :--- |
@@ -9,3 +23,5 @@
 | **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white) ![Chi](https://img.shields.io/badge/Chi-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
 | **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+
+</div>
