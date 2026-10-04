@@ -22,7 +22,7 @@
 <hr/>
 <br/>
 
-<h3 align="center"><img src="assets/glowing-dot.svg" width="14" height="14" alt="Live" /> <b><ins>Current Project</ins></b></h3>
+<h3 align="center"><img src="assets/yellow-dot.svg" width="14" height="14" alt="Project" /> <b><ins>Current Project</ins></b></h3>
 
 <p align="center">
   <a href="https://github.com/DevvSagar/async-singleflight"><b>async-singleflight</b></a><br/>
@@ -38,7 +38,7 @@
 <hr/>
 <br/>
 
-<h3 align="center"><img src="assets/red-light.svg" width="14" height="14" alt="Focus" /> <b><ins>Current Focus</ins></b></h3>
+<h3 align="center"><img src="assets/green-dot.svg" width="14" height="14" alt="Focus" /> <b><ins>Current Focus</ins></b></h3>
 
 <p align="center">
   <b>Exploring:</b> Distributed consensus and database storage engine internals.<br/>
