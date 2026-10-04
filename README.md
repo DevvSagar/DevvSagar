@@ -14,7 +14,7 @@
 
 <br/>
 
-### Tech Stack
+### <u><b>Tech Stack</b></u>
 
 | Area | Technologies |
 | :--- | :--- |
@@ -26,7 +26,11 @@
 
 <br/>
 
-### <img src="assets/glowing-dot.svg" width="12" height="12" alt="Live" /> Current Project
+---
+
+<br/>
+
+### <img src="assets/glowing-dot.svg" width="12" height="12" alt="Live" /> <u><b>Current Project</b></u>
 
 <p align="center">
   <a href="https://github.com/DevvSagar/async-singleflight"><b>async-singleflight</b></a><br/>
