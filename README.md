@@ -35,6 +35,18 @@
 </p>
 
 <br/>
+
+<p align="center">
+  <a href="https://github.com/DevvSagar/HookPulse"><b>HookPulse ↗</b></a><br/>
+  <em>High-throughput, fault-tolerant webhook delivery &amp; event ingestion engine for FastAPI, Redis &amp; PostgreSQL</em>
+</p>
+
+<p align="center">
+  <b>The Problem:</b> Synchronous webhook delivery causes thread starvation, lost events during downstream outages, and cascading failures from slow endpoints.<br/>
+  <b>The Solution:</b> Decouples ingestion via async worker pools with exponential backoff retries, per-destination circuit breaking, and dead-letter recovery.
+</p>
+
+<br/>
 <hr/>
 <br/>
 
