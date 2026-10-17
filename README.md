@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Sagar Pratap Singh &bull; Devvx </h1>
+<h1 align="center">Sagar Pratap Singh &bull; Devvx </h1> 
 
 <p align="center">
   <em>Driven by first principles: prioritizing simplicity, predictable performance, and backend systems that scale reliably under load.</em>
